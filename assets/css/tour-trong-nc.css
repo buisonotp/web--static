@@ -1,0 +1,39 @@
+footer{
+    background-color: rgb(12, 12, 58);
+    color: #fff;
+    margin-top: 30px;
+}
+.row-footer{
+    padding-top:30px;
+}
+.div-boot{
+    margin-top:45px;
+    padding-bottom:25px;
+}
+.container-con{
+    margin-top:30px;
+}
+.nav-link{
+    font-size: 13px;
+}
+nav.navbar.navbar-expand-md.navbar-light.sticky-top {
+    margin-top: -10px;
+}
+body {
+    padding: 0px;
+    margin: 0px
+}
+.nav a{
+    padding: 0px;
+}
+.container-top{
+      margin-top:40px;
+}
+
+.row-tour1{
+    margin-top:30px;
+}
+.search ion-icon{
+    padding-top: 5px;
+
+}

@@ -12,7 +12,7 @@
 
 
 .carousel-caption{
-    margin-bottom: 200px;
+    margin-bottom: 25%;
 }
 .nav-link{
     font-size: 13px;
@@ -102,4 +102,36 @@ footer{
 .div-boot{
     margin-top:45px;
     padding-bottom:25px;
+}
+@media (max-width:576px) {
+    .search{
+        margin-top: -46px;
+        margin-left: -90px
+    }
+    .carousel-caption {
+        margin-bottom: 60%;
+    }
+}
+@media (max-width:300px) {
+    nav.navbar.navbar-expand-md.navbar-light.sticky-top {
+        padding: 0px;
+        color:#000;
+    }
+    .carousel-caption {
+        margin-bottom: 60%;
+    }
+    
+}
+@media (max-width:960px) {
+
+     .carousel-caption {
+        margin-bottom: 60%;
+        margin-top:20%;
+    }
+    .rp-img{
+        margin-top:100px;
+    }
+}
+@media (max-width:1140px) {
+    
 }
